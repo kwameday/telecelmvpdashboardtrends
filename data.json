@@ -1,18 +1,18 @@
 {
-  "period": "October 21, 2025 to November 11, 2025",
+  "period": "October 21, 2025 to November 13, 2025",
   "summary": {
-    "totalTransactions": 101,
-    "successfulTransactions": 92,
-    "gmv": 3700,
-    "aov": 30.58,
+    "totalTransactions": 114,
+    "successfulTransactions": 106,
+    "gmv": 4533,
+    "aov": 32.58,
     "highestOrder": 200,
-    "successfulCashback": 88,
-    "totalCashback": 71.74,
-    "avgCashback": 0.62,
+    "successfulCashback": 102,
+    "totalCashback": 88.40,
+    "avgCashback": 0.66,
     "highestCashback": 4,
-    "totalUsers": 101,
-    "uniqueUsers": 91,
-    "repeatUsers": 10
+    "totalUsers": 115,
+    "uniqueUsers": 104,
+    "repeatUsers": 11
   },
   "leaderboard": [
     {
@@ -28,37 +28,42 @@
     {
       "rank": 3,
       "phone": "020xxxx714",
-      "cashback": 4.18
+      "cashback": 5.08
     },
     {
       "rank": 4,
-      "phone": "020xxxx182",
-      "cashback": 4.0
+      "phone": "020xxxx899",
+      "cashback": 4.50
     },
     {
       "rank": 5,
-      "phone": "020xxxx899",
-      "cashback": 3.3
+      "phone": "020xxxx182",
+      "cashback": 4.00
     },
     {
       "rank": 6,
-      "phone": "020xxxx054",
-      "cashback": 2.5
+      "phone": "020xxxx377",
+      "cashback": 2.60
     },
     {
       "rank": 7,
-      "phone": "020xxxx230",
-      "cashback": 2.4
+      "phone": "020xxxx054",
+      "cashback": 2.50
     },
     {
       "rank": 8,
-      "phone": "020xxxx312",
-      "cashback": 2.0
+      "phone": "020xxxx2302",
+      "cashback": 2.40
     },
     {
       "rank": 9,
-      "phone": "020xxxx172",
-      "cashback": 1.7
+      "phone": "020xxxx047",
+      "cashback": 2.06
+    },
+    {
+      "rank": 10,
+      "phone": "020xxxx312",
+      "cashback": 2.00
     }
   ],
   "daily": [
@@ -240,6 +245,21 @@
       3.2,
       20,
       19,
+      1
+    ],
+     [
+      "13-Nov",
+      14,
+      14,
+      833.0,
+      60.0,
+      200.0,
+      14,
+      16.66,
+      1.19,
+      4.0,
+      14,
+      13,
       1
     ]
   ]
