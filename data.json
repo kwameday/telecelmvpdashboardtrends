@@ -1,18 +1,18 @@
 {
-  "period": "October 21, 2025 to November 18, 2025",
+  "period": "October 21, 2025 to November 20, 2025",
   "summary": {
-    "totalTransactions": 162,
-    "successfulTransactions": 150,
-    "gmv": 6516,
-    "aov": 34.52,
+    "totalTransactions": 187,
+    "successfulTransactions": 175,
+    "gmv": 8026,
+    "aov": 36.14,
     "highestOrder": 200,
-    "successfulCashback": 143,
-    "totalCashback": 125.66,
-    "avgCashback": 0.70,
+    "successfulCashback": 168,
+    "totalCashback": 155.86,
+    "avgCashback": 0.73,
     "highestCashback": 4,
-    "totalUsers": 158,
-    "uniqueUsers": 144,
-    "repeatUsers": 14
+    "totalUsers": 183,
+    "uniqueUsers": 168,
+    "repeatUsers": 15
   },
   "leaderboard": [
     {
@@ -291,6 +291,21 @@
       21,
       19,
       2
+    ],
+    [
+      "20-Nov",
+      25,
+      25,
+      1510.0,
+      60.40,
+      176.0,
+      25,
+      30.20,
+      1.21,
+      3.52,
+      25,
+      24,
+      1
     ]
   ]
 }
