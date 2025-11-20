@@ -13,57 +13,57 @@
     "totalUsers": 183,
     "uniqueUsers": 168,
     "repeatUsers": 15
-  },
+ },
   "leaderboard": [
     {
       "rank": 1,
-      "phone": "020xxxx977",
-      "cashback": 7.2
+      "phone": "020xxxx232",
+      "cashback": 9.28
     },
     {
       "rank": 2,
-      "phone": "020xxxx232",
-      "cashback": 5.64
+      "phone": "020xxxx977",
+      "cashback": 8.80
     },
     {
       "rank": 3,
       "phone": "020xxxx714",
-      "cashback": 5.08
+      "cashback": 5.88
     },
     {
       "rank": 4,
+      "phone": "020xxxx377",
+      "cashback": 4.60
+    },
+    {
+      "rank": 5,
       "phone": "020xxxx899",
       "cashback": 4.50
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "phone": "020xxxx575",
+      "cashback": 4.10
+    },
+    {
+      "rank": 7,
+      "phone": "020xxxx919",
+      "cashback": 4.00
+    },
+    {
+      "rank": 8,
       "phone": "020xxxx182",
       "cashback": 4.00
     },
     {
-      "rank": 6,
-      "phone": "020xxxx377",
-      "cashback": 2.60
-    },
-    {
-      "rank": 7,
-      "phone": "020xxxx054",
-      "cashback": 2.50
-    },
-    {
-      "rank": 8,
-      "phone": "020xxxx2302",
-      "cashback": 2.40
-    },
-    {
       "rank": 9,
-      "phone": "020xxxx047",
-      "cashback": 2.06
+      "phone": "020xxxx312",
+      "cashback": 3.88
     },
     {
       "rank": 10,
-      "phone": "020xxxx312",
-      "cashback": 2.00
+      "phone": "020xxxx692",
+      "cashback": 3.52
     }
   ],
   "daily": [
